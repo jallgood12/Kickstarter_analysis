@@ -9,8 +9,9 @@
     What are two conclusions you can draw about the Theater Outcomes by Launch Date? A: One can conclude that the month of May had the most succeful and failed amount of plays than any other month. Also, you can conclude that there were no cancelations in the month of October.
    
   
+   ![Outcomes based on goals](https://user-images.githubusercontent.com/119640010/206811426-f5f37baa-114a-48d1-9623-fe441f1b502f.png)
+
+   ![Outcomes based on launch date](https://user-images.githubusercontent.com/119640010/206811434-b1ab060d-010d-423d-a0d6-1ad651600379.png)
+
    
-   
-   
-![Outcomes based on goals](https://user-images.githubusercontent.com/119640010/206810710-0a588b42-eb42-45a6-b30c-4bafea141904.png)
-![Outcomes based on launch date](https://user-images.githubusercontent.com/119640010/206810826-dbd145ac-bdd2-42c0-9464-90bb52bfa0c5.png)
+[Module 1 Assignment COPY.xlsx](https://github.com/jallgood12/Kickstarter_analysis/files/10198693/Module.1.Assignment.COPY.xlsx)
